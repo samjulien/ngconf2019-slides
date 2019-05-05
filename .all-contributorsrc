@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ni500",
+      "name": "Nicolás Contreras V.",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19766276?v=4",
+      "profile": "http://ni500.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ngconf2019-slides",
+  "projectOwner": "samjulien",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
