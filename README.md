@@ -1,6 +1,8 @@
 # ng-conf 2019 slides
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
+This is a centralized repository for all of the slides and videos from [#ngconf2019](https://twitter.com/search?q=%23ngconf2019&src=tyah). [Contributions](#contributors) are welcome!
+
 [ng-conf 2019 Playlist](https://www.youtube.com/watch?v=xvU44SRVrik&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
 
 ## Day 1
@@ -35,6 +37,7 @@
 * [Crash Course: Angular and ngRx](https://bit.ly/2GV8XY9) by Aspen Payton
 * [ng generate universal, Now What?](http://bit.ly/jd-ng-conf-2019) by James Daniels
 * [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by Rachel Noccioli
+* [RxJS Schedulers form outer space – performance, animations, asynchrony](http://bit.ly/scheduling-in-RxJS-v7_ngConf) by Michael Hladky ([Video](http://bit.ly/scheduling-in-RxJS-v7_ngConf_video))
 
 ## Day 3
 [Livestream May 3](https://www.youtube.com/watch?v=MLxQor_v924)
