@@ -27,6 +27,10 @@
 * [2019: A Schematics Odysee (1-hour workshop)](https://docs.google.com/presentation/d/1h8s5tQssvbzSt77hs7VQT9w5IGAjFXNEUVap6HITjJA/edit?usp=sharing)by Brian Love & Kevin Schuchard
 * [The Form Awakens](https://docs.google.com/presentation/d/1HyoAuf9_kiBp9B-9mTHPuTTzhgRvHBR5V-AQs81oXNU/edit?usp=sharing) by Sander Elias
 * [A Deep Look at Angular Elements](https://speakerdeck.com/manfredsteyer/a-deep-look-at-angular-elements) by Manfred Steyer
+* [Angular and CSS Grid: Get ready to fall in love](https://github.com/wnodom/spacewalk) by Bill Odom
+* [Crash Course: Angular and ngRx](https://bit.ly/2GV8XY9) by Aspen Payton
+* [ng generate universal, Now What? ](http://bit.ly/jd-ng-conf-2019) by James Daniels
+* [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by Rachel Noccioli
 
 ## Day 3
 * [Wrapping it up with Decorators](https://slides.com/nixallover/decorators-ngconf2019#/) by Nicole Oliver
