@@ -34,6 +34,10 @@
 
 ## Day 3
 * [Wrapping it up with Decorators](https://slides.com/nixallover/decorators-ngconf2019#/) by Nicole Oliver
-* [Angular Elements Make the Best React Components](https://slides.com/ryanchenkie/angular-elements-make-the-best-react-components) by Ryan Chenkie	Brad McAlister
+* [Angular Elements Make the Best React Components](https://bit.ly/ng-conf-elements) by Ryan Chenkie	Brad McAlister
 * [RxJS Push-Based Architectures in Angular](http://bit.ly/2VgrxCX) by Thomas Burleson
 * [Astronomical NgRx Antipatterns for Job Security](https://docs.google.com/presentation/d/1VsgupNTuuupljQJRqDqUsDRhsFwipA9f3EyP872WnwQ/edit?usp=sharing) by Reid Villeneuve
+* [Mastering the Subject: Communication Options in RxJS](https://www.dropbox.com/s/sfqyjksou18b399/Mastering%20the%20Subject%20-%20Communication%20Options%20in%20RxJS.pdf?dl=0) by Dan Wahlin
+* [How tech communities can change your life](https://docs.google.com/presentation/d/1d_I55TduB6jy6w71ck3yuUBzYZMNLO6cV__IkLuCaV4/edit?usp=drivesdk) by Melina Mejia Bedoya
+* [UFO: Un-identified Forgettable Operators - 20 operators in 20 minutes](https://drive.google.com/file/d/1zP3PIQ_sXxmdnLypQy2q3BfP7IzmOu0l/view?usp=sharing) by Mike Brocchi & John Niedzwiecki
+* [Why we teach Angular to our Computer Science Masters' students?](http://tiny.cc/ngconf2019) by Asaad Saad
