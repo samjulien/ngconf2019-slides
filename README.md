@@ -1,4 +1,5 @@
 # ng-conf 2019 slides
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [ng-conf 2019 Playlist](https://www.youtube.com/watch?v=xvU44SRVrik&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
 
 ## Day 1
@@ -44,3 +45,15 @@
 * [How tech communities can change your life](https://docs.google.com/presentation/d/1d_I55TduB6jy6w71ck3yuUBzYZMNLO6cV__IkLuCaV4/edit?usp=drivesdk) by Melina Mejia Bedoya
 * [UFO: Un-identified Forgettable Operators - 20 operators in 20 minutes](https://drive.google.com/file/d/1zP3PIQ_sXxmdnLypQy2q3BfP7IzmOu0l/view?usp=sharing) by Mike Brocchi & John Niedzwiecki
 * [Why we teach Angular to our Computer Science Masters' students?](http://tiny.cc/ngconf2019) by Asaad Saad
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="http://ni500.com"><img src="https://avatars3.githubusercontent.com/u/19766276?v=4" width="100px;" alt="Nicolás Contreras V."/><br /><sub><b>Nicolás Contreras V.</b></sub></a><br /><a href="https://github.com/samjulien/ngconf2019-slides/commits?author=ni500" title="Documentation">📖</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
