@@ -17,33 +17,39 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 * [Black Holes and Angular Interceptors](https://luixaviles.com/ngconf-2019/ )by Luis Aviles ([Video](https://www.youtube.com/watch?v=peFWJYFvfQU))
 * “Why you want humans to establish a self-sustaining second home on Mars as soon as possible and exactly how we’ll do that” by Stephen Petranek ([Video](https://www.youtube.com/watch?v=_Up7GU-F9zc))
 * Angular for Enterprise by [Stephen Fluin](https://twitter.com/stephenfluin) ([Video](https://www.youtube.com/watch?v=4d1HYKL2tt4&t=5s))
-* IoT for Introverts by Chloe Condon ([Video](https://www.youtube.com/watch?v=_K30eBabb3A))
+* IoT for Introverts by [Chloe Condon](https://twitter.com/ChloeCondon) ([Video](https://www.youtube.com/watch?v=_K30eBabb3A))
 * [These ARE the Angular tips you are looking for](https://slides.com/johnpapa/ngconf2019-3-angular-tips) by [John Papa](https://twitter.com/John_Papa) ([Video](https://www.youtube.com/watch?v=2ZFgcTOcnUg))
 * [Tools for Fast Angular Applications](https://speakerdeck.com/mgechev/tools-for-fast-angular-applications) by [Minko Gechev](https://twitter.com/mgechev) ([Video](https://www.youtube.com/watch?v=5VlBaaXO6ok))
 * Not Every App is a SPA by [Rob Wormald](https://twitter.com/robwormald)	([Video](https://www.youtube.com/watch?v=JX5GGu_7JKc))
- * The Future of Machine Learning & Javascript by Asim Hussain ([Video](https://www.youtube.com/watch?v=hfSjaChrGpI))
+ * The Future of Machine Learning & Javascript by [Asim Hussain](https://twitter.com/jawache) ([Video](https://www.youtube.com/watch?v=hfSjaChrGpI))
 * [Data Composition with RxJS](http://bit.ly/deborahk-ngconf2019) by [Deborah Kurata](https://twitter.com/DeborahKurata) ([Video](https://www.youtube.com/watch?v=Z76QlSpYcck))	
 * What if your dev environment was a PWA? by Eric Simons ([Video](https://www.youtube.com/watch?v=i01V52I56TA))
 
 ## Day 2
 [Livestream May 2](https://www.youtube.com/watch?v=sIWvhPXZHc0)
 * [Subjecting State to Good Behavior](https://cloud.kmaida.io/KimMaida-SubjectingStateToGoodBehavior.pdf) by [Kim Maida](https://twitter.com/KimMaida) ([Video](https://www.youtube.com/watch?v=XuRpn8KXw6g&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=23))
-* [Productivity Revolution: Angular Principles in Node](https://speakerdeck.com/kamilmysliwiec/productivity-revolution-angular-principles-in-node) by Kamil Mysliwiec
+* [Productivity Revolution: Angular Principles in Node](https://speakerdeck.com/kamilmysliwiec/productivity-revolution-angular-principles-in-node) by [Kamil Mysliwiec](https://twitter.com/kammysliwiec) ([Video](https://youtu.be/RSIX4Olo2Vg))
+* [Amazing Backends for Angular Devs with NestJS](https://github.com/elylucas/nest-ngconf) by [Ely Lucas](https://twitter.com/elylucas)
 * Can you imagine a future without zones? by [Maxim Koretskyi](https://twitter.com/maxkoretskyi) ([Video](https://www.youtube.com/watch?v=TRfDXG98_Qg))
 * [Use Decorators to Beat ngOnChanges](https://docs.google.com/presentation/d/1VhVKngkWCC_tswsf9R_uk7ruRRxoKhhm95K8v0HayAY/edit?usp=sharing) by [Kern Zhao](https://twitter.com/zhaosiyang0909) ([Video](https://www.youtube.com/watch?v=rVDMmlCRvkg))
-* [Schematics: An Untapped Frontier](https://docs.google.com/presentation/d/156wl847PwJE5kUQ4PiiS8Qw74tI8Fpj2q3hQTrg8e4U/edit?usp=sharing) by Brian Love & Kevin Schuchard
-* [2019: A Schematics Odysee (1-hour workshop)](https://docs.google.com/presentation/d/1h8s5tQssvbzSt77hs7VQT9w5IGAjFXNEUVap6HITjJA/edit?usp=sharing)by Brian Love & Kevin Schuchard
+* [Schematics: An Untapped Frontier](https://docs.google.com/presentation/d/156wl847PwJE5kUQ4PiiS8Qw74tI8Fpj2q3hQTrg8e4U/edit?usp=sharing) by [Brian Love](https://twitter.com/brian_love) & [Kevin Schuchard](https://twitter.com/KevinSchuchard) ([Video](https://youtu.be/FeZ40kXS0OI))
+* [2019: A Schematics Odysee (1-hour workshop)](https://docs.google.com/presentation/d/1h8s5tQssvbzSt77hs7VQT9w5IGAjFXNEUVap6HITjJA/edit?usp=sharing)by [Brian Love](https://twitter.com/brian_love) & [Kevin Schuchard](https://twitter.com/KevinSchuchard) ([Video](https://youtu.be/X06tuCohJPQ))
 * [The Form Awakens](https://docs.google.com/presentation/d/1HyoAuf9_kiBp9B-9mTHPuTTzhgRvHBR5V-AQs81oXNU/edit?usp=sharing) by [Sander Elias](https://twitter.com/esosanderelias) ([Video](https://youtu.be/JCjyjdlaoaI))
 * [A Deep Look at Angular Elements](https://speakerdeck.com/manfredsteyer/a-deep-look-at-angular-elements) by [Manfred Steyer](https://twitter.com/ManfredSteyer) ([Video](https://www.youtube.com/watch?v=_QU0mpyF7bQ))
-* [Angular and CSS Grid: Get ready to fall in love](https://github.com/wnodom/spacewalk) by Bill Odom
+* [Angular and CSS Grid: Get ready to fall in love](https://github.com/wnodom/spacewalk) by [Bill Odom](https://twitter.com/wnodom) ([Video](https://youtu.be/lh6n0JxXD_g))
 * [Crash Course: Angular and ngRx](https://bit.ly/2GV8XY9) by [Aspen Payton](https://twitter.com/paytonmn) ([Video](https://www.youtube.com/watch?v=272KDxSIQBw&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=33))
-* [ng generate universal, Now What?](http://bit.ly/jd-ng-conf-2019) by James Daniels
+* [ng generate universal, Now What?](http://bit.ly/jd-ng-conf-2019) by [James Daniels](https://twitter.com/jamesuriah) ([Video](https://youtu.be/DZ6J9mGpEZ8))
 * Turning an Aircraft Carrier: From a Monolithic angular.js App to Scalable, Federated Angular Development with Elements, the CDK, Schematics, and an Nx-Powered Monorepo by Dylan Johnson
 * [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by Rachel Noccioli
 * [RxJS Schedulers form outer space – performance, animations, asynchrony](http://bit.ly/scheduling-in-RxJS-v7_ngConf) by Michael Hladky ([Video](http://bit.ly/scheduling-in-RxJS-v7_ngConf_video))
 * RxJS Advanced Patterns by [Michael Hladky](https://twitter.com/Michael_Hladky) ([Video](https://www.youtube.com/watch?v=XKfhGntZROQ&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=21))
 * Reactive Forms Demistified by [Sani Yusuf](https://twitter.com/saniyusuf) & [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=Rq4vjSkidPk))
 * Personalization, Performance, and Probably Dynamic Content by [Jeff Cross](https://twitter.com/jeffbcross) & [Kaitlyn Ekdahl](https://twitter.com/kaitlynekdahl) ([Video](https://www.youtube.com/watch?v=fOsLM8tPcDQ))
+* Crossing Across Platforms by [Sani Yusuf](https://twitter.com/saniyusuf) ([Video](https://youtu.be/7_k4JvnZ88c))
+* Cross Platform with Angular and Ionic 4 by [Mike Hartington](https://twitter.com/mhartington) ([Video](https://youtu.be/TqdOBkY0ZFg))
+* Deep Dive: Angular Universal in the cloud with Google’s latest Serverless technology by [Jason Dobry](https://twitter.com/jmdobry) ([Video](https://youtu.be/-6kF824823o))
+* [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by [Rachel Noccioli](https://twitter.com/rachelnoccioli)
+* It's just a compliment after all! by [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=6RobEjMnHtQ))
 
 ## Day 3
 [Livestream May 3](https://www.youtube.com/watch?v=MLxQor_v924)
@@ -53,8 +59,9 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 * [Angular Elements Make the Best React Components](https://bit.ly/ng-conf-elements) by [Ryan Chenkie](https://twitter.com/ryanchenkie) & [Brad McAlister](https://twitter.com/sonicparke) ([Video](https://www.youtube.com/watch?v=tHclHHs7nmo))
 * [Before NgRx: Superpowers with RxJS + Facades](http://bit.ly/2VgrxCX) by [Thomas Burleson](https://twitter.com/ThomasBurleson) ([Video](https://www.youtube.com/watch?v=h-F5uYM69a4&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=44))
 * [Astronomical NgRx Antipatterns for Job Security](https://docs.google.com/presentation/d/1VsgupNTuuupljQJRqDqUsDRhsFwipA9f3EyP872WnwQ/edit?usp=sharing) by [Reid Villeneuve](https://twitter.com/reidsvilleneuve) ([Video](https://www.youtube.com/watch?v=pY49sCqbDQE))
+* Appetite for production: build, scale, and monitor your app in the cloud with Google’s newest serverless tools by [Bret McGowen](https://twitter.com/bretmcg) ([Video](https://www.youtube.com/watch?v=WvVLfuCGuWU&feature=youtu.be))
 * [Mastering the Subject: Communication Options in RxJS](https://www.dropbox.com/s/sfqyjksou18b399/Mastering%20the%20Subject%20-%20Communication%20Options%20in%20RxJS.pdf?dl=0) by [Dan Wahlin](https://twitter.com/DanWahlin)
-* [How tech communities can change your life](https://docs.google.com/presentation/d/1d_I55TduB6jy6w71ck3yuUBzYZMNLO6cV__IkLuCaV4/edit?usp=drivesdk) by Melina Mejia Bedoya
+* [How tech communities can change your life](https://docs.google.com/presentation/d/1d_I55TduB6jy6w71ck3yuUBzYZMNLO6cV__IkLuCaV4/edit?usp=drivesdk) by [Melina Mejía Bedoya](https://twitter.com/melinamejia95) ([Video](https://www.youtube.com/watch?v=piVDXDefsts))
 * Thinking Reactively: Most Difficult by [Mike Pearson](https://twitter.com/mfpears) ([Video](https://www.youtube.com/watch?v=-4cwkHNguXE&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=40))
 * How To Build Your Own RxJS Operators by [Ben Lesh](https://twitter.com/BenLesh) & [Tracy Lee](https://twitter.com/ladyleet) ([Video](https://www.youtube.com/watch?v=E6R_1QB8q4o&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=47))
 * [UFO: Un-identified Forgettable Operators - 20 operators in 20 minutes](https://drive.google.com/file/d/1zP3PIQ_sXxmdnLypQy2q3BfP7IzmOu0l/view?usp=sharing) by [Mike Brocchi](https://twitter.com/Brocco) & [John Niedzwiecki](https://twitter.com/KiltedCode) ([Video](https://www.youtube.com/watch?v=ak3MvMn8u18&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=48))
