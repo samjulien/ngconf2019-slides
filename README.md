@@ -43,13 +43,14 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 * [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by Rachel Noccioli
 * [RxJS Schedulers form outer space – performance, animations, asynchrony](http://bit.ly/scheduling-in-RxJS-v7_ngConf) by Michael Hladky ([Video](http://bit.ly/scheduling-in-RxJS-v7_ngConf_video))
 * RxJS Advanced Patterns by [Michael Hladky](https://twitter.com/Michael_Hladky) ([Video](https://www.youtube.com/watch?v=XKfhGntZROQ&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=21))
-* Reactive Forms Demistified by [Sani Yusuf](https://twitter.com/saniyusuf) & [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=Rq4vjSkidPk))
+* [Reactive Forms Demistified](https://bit.ly/2GQhxGo) by [Sani Yusuf](https://twitter.com/saniyusuf) & [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=Rq4vjSkidPk))
 * Personalization, Performance, and Probably Dynamic Content by [Jeff Cross](https://twitter.com/jeffbcross) & [Kaitlyn Ekdahl](https://twitter.com/kaitlynekdahl) ([Video](https://www.youtube.com/watch?v=fOsLM8tPcDQ))
 * Crossing Across Platforms by [Sani Yusuf](https://twitter.com/saniyusuf) ([Video](https://youtu.be/7_k4JvnZ88c))
 * Cross Platform with Angular and Ionic 4 by [Mike Hartington](https://twitter.com/mhartington) ([Video](https://youtu.be/TqdOBkY0ZFg))
 * Deep Dive: Angular Universal in the cloud with Google’s latest Serverless technology by [Jason Dobry](https://twitter.com/jmdobry) ([Video](https://youtu.be/-6kF824823o))
 * [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by [Rachel Noccioli](https://twitter.com/rachelnoccioli)
 * It's just a compliment after all! by [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=6RobEjMnHtQ))
+* Testing is a Black hole of time and effort: Avoiding the suck using Cypress by [Jesse Sanders](https://twitter.com/JesseS_BrieBug) & [Joe Eames](https://twitter.com/josepheames) ([Video](https://youtu.be/GH9Dvo_BYkk))
 
 ## Day 3
 [Livestream May 3](https://www.youtube.com/watch?v=MLxQor_v924)
