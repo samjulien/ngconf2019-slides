@@ -29,8 +29,8 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 [Livestream May 2](https://www.youtube.com/watch?v=sIWvhPXZHc0)
 * [Subjecting State to Good Behavior](https://cloud.kmaida.io/KimMaida-SubjectingStateToGoodBehavior.pdf) by Kim Maida
 * [Productivity Revolution: Angular Principles in Node](https://speakerdeck.com/kamilmysliwiec/productivity-revolution-angular-principles-in-node) by Kamil Mysliwiec
-* [Schematics: An Untapped Frontier](https://docs.google.com/presentation/d/156wl847PwJE5kUQ4PiiS8Qw74tI8Fpj2q3hQTrg8e4U/edit?usp=sharing) by Brian Love & Kevin Schuchard
-* [2019: A Schematics Odysee (1-hour workshop)](https://docs.google.com/presentation/d/1h8s5tQssvbzSt77hs7VQT9w5IGAjFXNEUVap6HITjJA/edit?usp=sharing)by Brian Love & Kevin Schuchard
+* [Schematics: An Untapped Frontier](https://docs.google.com/presentation/d/156wl847PwJE5kUQ4PiiS8Qw74tI8Fpj2q3hQTrg8e4U/edit?usp=sharing) by Brian Love & Kevin Schuchard ([Video](https://youtu.be/FeZ40kXS0OI))
+* [2019: A Schematics Odysee (1-hour workshop)](https://docs.google.com/presentation/d/1h8s5tQssvbzSt77hs7VQT9w5IGAjFXNEUVap6HITjJA/edit?usp=sharing)by Brian Love & Kevin Schuchard ([Video](https://youtu.be/X06tuCohJPQ), [Workshop](https://github.com/blove/schematics-workshop/wiki))
 * [The Form Awakens](https://docs.google.com/presentation/d/1HyoAuf9_kiBp9B-9mTHPuTTzhgRvHBR5V-AQs81oXNU/edit?usp=sharing) by Sander Elias
 * [A Deep Look at Angular Elements](https://speakerdeck.com/manfredsteyer/a-deep-look-at-angular-elements) by Manfred Steyer
 * [Angular and CSS Grid: Get ready to fall in love](https://github.com/wnodom/spacewalk) by Bill Odom
@@ -44,7 +44,7 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 * [Wrapping it up with Decorators](https://slides.com/nixallover/decorators-ngconf2019#/) by Nicole Oliver
 * [Angular Elements Make the Best React Components](https://bit.ly/ng-conf-elements) by Ryan Chenkie	Brad McAlister
 * [RxJS Push-Based Architectures in Angular](http://bit.ly/2VgrxCX) by Thomas Burleson
-* [Astronomical NgRx Antipatterns for Job Security](https://docs.google.com/presentation/d/1VsgupNTuuupljQJRqDqUsDRhsFwipA9f3EyP872WnwQ/edit?usp=sharing) by Reid Villeneuve
+* [Astronomical NgRx Antipatterns for Job Security](https://docs.google.com/presentation/d/1VsgupNTuuupljQJRqDqUsDRhsFwipA9f3EyP872WnwQ/edit?usp=sharing) by Reid Villeneuve ([Video](https://youtu.be/pY49sCqbDQE))
 * [Mastering the Subject: Communication Options in RxJS](https://www.dropbox.com/s/sfqyjksou18b399/Mastering%20the%20Subject%20-%20Communication%20Options%20in%20RxJS.pdf?dl=0) by Dan Wahlin
 * [How tech communities can change your life](https://docs.google.com/presentation/d/1d_I55TduB6jy6w71ck3yuUBzYZMNLO6cV__IkLuCaV4/edit?usp=drivesdk) by Melina Mejia Bedoya
 * [UFO: Un-identified Forgettable Operators - 20 operators in 20 minutes](https://drive.google.com/file/d/1zP3PIQ_sXxmdnLypQy2q3BfP7IzmOu0l/view?usp=sharing) by Mike Brocchi & John Niedzwiecki
