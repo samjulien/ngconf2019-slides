@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "schuchard",
+      "name": "Kevin Schuchard",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10186449?v=4",
+      "profile": "https://kevinschuchard.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
