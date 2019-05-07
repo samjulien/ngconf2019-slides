@@ -1,5 +1,5 @@
 # ng-conf 2019 slides
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 This is a centralized repository for all of the slides and videos from [#ngconf2019](https://twitter.com/search?q=%23ngconf2019&src=tyah). [Contributions](#contributors) are welcome!
 
@@ -76,7 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://ni500.com"><img src="https://avatars3.githubusercontent.com/u/19766276?v=4" width="100px;" alt="Nicolás Contreras V."/><br /><sub><b>Nicolás Contreras V.</b></sub></a><br /><a href="https://github.com/samjulien/ngconf2019-slides/commits?author=ni500" title="Documentation">📖</a></td></tr></table>
+<table><tr><td align="center"><a href="http://ni500.com"><img src="https://avatars3.githubusercontent.com/u/19766276?v=4" width="100px;" alt="Nicolás Contreras V."/><br /><sub><b>Nicolás Contreras V.</b></sub></a><br /><a href="https://github.com/samjulien/ngconf2019-slides/commits?author=ni500" title="Documentation">📖</a></td><td align="center"><a href="https://kevinschuchard.com"><img src="https://avatars2.githubusercontent.com/u/10186449?v=4" width="100px;" alt="Kevin Schuchard"/><br /><sub><b>Kevin Schuchard</b></sub></a><br /><a href="https://github.com/samjulien/ngconf2019-slides/commits?author=schuchard" title="Documentation">📖</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
