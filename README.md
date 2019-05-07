@@ -29,7 +29,7 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 [Livestream May 2](https://www.youtube.com/watch?v=sIWvhPXZHc0)
 * [Subjecting State to Good Behavior](https://cloud.kmaida.io/KimMaida-SubjectingStateToGoodBehavior.pdf) by [Kim Maida](https://twitter.com/KimMaida) ([Video](https://www.youtube.com/watch?v=XuRpn8KXw6g&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=23))
 * [Productivity Revolution: Angular Principles in Node](https://speakerdeck.com/kamilmysliwiec/productivity-revolution-angular-principles-in-node) by [Kamil Mysliwiec](https://twitter.com/kammysliwiec) ([Video](https://youtu.be/RSIX4Olo2Vg))
-* [Amazing Backends for Angular Devs with NestJS](https://github.com/elylucas/nest-ngconf) by [Ely Lucas](https://twitter.com/elylucas)
+* [Amazing Backends for Angular Devs with NestJS](https://github.com/elylucas/nest-ngconf) by [Ely Lucas](https://twitter.com/elylucas) ([Video](https://www.youtube.com/watch?v=XkEA8L_4IUY))
 * Can you imagine a future without zones? by [Maxim Koretskyi](https://twitter.com/maxkoretskyi) ([Video](https://www.youtube.com/watch?v=TRfDXG98_Qg))
 * [Use Decorators to Beat ngOnChanges](https://docs.google.com/presentation/d/1VhVKngkWCC_tswsf9R_uk7ruRRxoKhhm95K8v0HayAY/edit?usp=sharing) by [Kern Zhao](https://twitter.com/zhaosiyang0909) ([Video](https://www.youtube.com/watch?v=rVDMmlCRvkg))
 * [Schematics: An Untapped Frontier](https://docs.google.com/presentation/d/156wl847PwJE5kUQ4PiiS8Qw74tI8Fpj2q3hQTrg8e4U/edit?usp=sharing) by [Brian Love](https://twitter.com/brian_love) & [Kevin Schuchard](https://twitter.com/KevinSchuchard) ([Video](https://youtu.be/FeZ40kXS0OI))
@@ -40,7 +40,7 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 * [Crash Course: Angular and ngRx](https://bit.ly/2GV8XY9) by [Aspen Payton](https://twitter.com/paytonmn) ([Video](https://www.youtube.com/watch?v=272KDxSIQBw&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=33))
 * [ng generate universal, Now What?](http://bit.ly/jd-ng-conf-2019) by [James Daniels](https://twitter.com/jamesuriah) ([Video](https://youtu.be/DZ6J9mGpEZ8))
 * Turning an Aircraft Carrier: From a Monolithic angular.js App to Scalable, Federated Angular Development with Elements, the CDK, Schematics, and an Nx-Powered Monorepo by Dylan Johnson
-* [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by Rachel Noccioli
+* [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by [Rachel Noccioli](https://twitter.com/rachelnoccioli) ([Video](https://www.youtube.com/watch?v=PPhkGNOgaNM))
 * [RxJS Schedulers form outer space – performance, animations, asynchrony](http://bit.ly/scheduling-in-RxJS-v7_ngConf) by Michael Hladky ([Video](http://bit.ly/scheduling-in-RxJS-v7_ngConf_video))
 * RxJS Advanced Patterns by [Michael Hladky](https://twitter.com/Michael_Hladky) ([Video](https://www.youtube.com/watch?v=XKfhGntZROQ&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR&index=21))
 * [Reactive Forms Demistified](https://bit.ly/2GQhxGo) by [Sani Yusuf](https://twitter.com/saniyusuf) & [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=Rq4vjSkidPk))
@@ -48,7 +48,7 @@ This is a centralized repository for all of the slides and videos from [#ngconf2
 * Crossing Across Platforms by [Sani Yusuf](https://twitter.com/saniyusuf) ([Video](https://youtu.be/7_k4JvnZ88c))
 * Cross Platform with Angular and Ionic 4 by [Mike Hartington](https://twitter.com/mhartington) ([Video](https://youtu.be/TqdOBkY0ZFg))
 * Deep Dive: Angular Universal in the cloud with Google’s latest Serverless technology by [Jason Dobry](https://twitter.com/jmdobry) ([Video](https://youtu.be/-6kF824823o))
-* [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by [Rachel Noccioli](https://twitter.com/rachelnoccioli)
+* [Blast Off with Angular Material](https://drive.google.com/a/oasisdigital.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view?usp=drivesdk) by [Rachel Noccioli](https://twitter.com/rachelnoccioli) ([Video](https://www.youtube.com/watch?v=PPhkGNOgaNM))
 * It's just a compliment after all! by [Katerina Skroumpelou](https://twitter.com/psybercity) ([Video](https://www.youtube.com/watch?v=6RobEjMnHtQ))
 * Testing is a Black hole of time and effort: Avoiding the suck using Cypress by [Jesse Sanders](https://twitter.com/JesseS_BrieBug) & [Joe Eames](https://twitter.com/josepheames) ([Video](https://youtu.be/GH9Dvo_BYkk))
 
